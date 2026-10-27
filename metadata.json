@@ -1,0 +1,6 @@
+{
+  "name": "Tessaria",
+  "description": "An original geometric puzzle game inspired by 4D tesseract mechanics. Shift rows and columns across folded dimensions to connect paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
